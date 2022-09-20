@@ -19,7 +19,7 @@ function preload(){
 
   //carregue o som aqui
   gameOverSound = loadSound("gameover.mp3");
-  knifeSwooshSound = loadSound ("KnifeSwoosh.mp3");
+  knifeSwooshSound = loadSound ("knifeSwoosh.mp3");
 }
 
 
